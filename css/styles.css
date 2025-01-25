@@ -317,11 +317,8 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: row;
-    gap: 24px;
-    width: 232px;
-    height: 40px;
-    margin-top: 8px;
+    width: 16px;
+    height: 16px;
   }
   
   .team-social-link:hover {
@@ -456,6 +453,14 @@ img {
       display: flex;
       align-items: baseline;
       margin-right: 120px;
+    }
+    .footer-social-icon {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 24px;
+      height: 24px;
+      fill: #fff;
     }
         
 .footer-logo {
